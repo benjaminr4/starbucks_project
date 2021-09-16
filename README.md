@@ -1,3 +1,21 @@
+### Software Used
+This project was completed in python mainly using jupyter notebooks supported by Anaconda.  
+The main libraries used in this project are:
+* numpy
+* pandas
+* json
+* matplotlib.pyplot
+* seaborn
+* scipy
+* sklearn.preprocessing
+* sklearn.model_selection
+* sklearn.metrics
+* sklearn.decomposition
+* sklearn.naive_bayes
+* sklearn.svm
+* sklearn.ensemble
+* sklearn.tree
+* torch
 ### Files Explanation
 There are 4 jupyter notebooks used in this project:
 * Dataset\_Exploration.ipynb - Demonstrates a lot of free form thinking and playing around with the data sets
