@@ -1,4 +1,4 @@
-Files Explanation:
+## Header 2 Files Explanation
 There are 4 jupyter notebooks used in this project:
 * Dataset\_Exploration.ipynb - Demonstrates a lot of free form thinking and playing around with the data sets
 * Data\_Preparation.ipynb - This is where the data sets were cleaned and the classes were defined
@@ -11,5 +11,5 @@ The data sets I created using the data sets provided:
 * final_table.pkl (the initial result from cleaning and joining the data)
 * final_table_nf.pkl (this table contains 'new features' I extracted so I could refine my models)
 
-proposal.pdf contains my initial plan for this project (my plans did change slightly during the project)
+proposal.pdf contains my initial plan for this project (my plans did change slightly during the project)  
 report.pdf contains my final report
