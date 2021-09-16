@@ -1,4 +1,4 @@
-## Header 2 Files Explanation
+### Files Explanation
 There are 4 jupyter notebooks used in this project:
 * Dataset\_Exploration.ipynb - Demonstrates a lot of free form thinking and playing around with the data sets
 * Data\_Preparation.ipynb - This is where the data sets were cleaned and the classes were defined
